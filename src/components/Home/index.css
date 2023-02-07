@@ -1,0 +1,38 @@
+.clothes-heading {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #1e293b;
+}
+.clothes-desc {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #64748b;
+}
+
+.shop-btn {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #0b69ff;
+  padding: 10px 24px 10px 24px;
+  border: 0px;
+  border-radius: 6px;
+}
+.content-container {
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+}
+.trendz-home {
+  width: 500px;
+  height: 500px;
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.content-container-desc {
+  align-self: center;
+  width: 500px;
+}
